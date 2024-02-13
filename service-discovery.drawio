@@ -1,9 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T10:20:44.348Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.3" etag="RuAgPnBFgHsWLctJcKHK" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-13T10:38:31.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="oRUl29zCfuArqkxDR7BZ" version="23.1.3" type="github">
   <diagram name="Page-1" id="sJwAUrsWw36YM5KDpwgM">
-    <mxGraphModel>
+    <mxGraphModel dx="1502" dy="592" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-1" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.client_application" vertex="1" parent="1">
+          <mxGeometry x="373.02" y="130" width="125" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.question;" vertex="1" parent="1">
+          <mxGeometry x="431.98" y="240" width="21.03" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="300" width="370" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-6" value="Instance1 " style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="330" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-7" value="Instance2" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410.52" y="330" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-8" value="Instance3" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.ec2;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="330" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-9" target="YFnP_0Sg1N9gIwkcgxoO-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-9" value="How can clients find microservices and their instances?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="540" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-10" target="YFnP_0Sg1N9gIwkcgxoO-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-10" value="The Problem" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="30" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-12" value="The Solution" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="300" y="710" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-14" target="YFnP_0Sg1N9gIwkcgxoO-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-14" value="Add a new component – a service discovery service – to the system landscape,&lt;br&gt;which keeps track of currently available microservices and the IP addresses of its&lt;br&gt;instances." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="330" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-12" target="YFnP_0Sg1N9gIwkcgxoO-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-19" value="Service Discovery Design Pattern" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="50" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-20" target="YFnP_0Sg1N9gIwkcgxoO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-20" target="YFnP_0Sg1N9gIwkcgxoO-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1070" />
+              <mxPoint x="490" y="1308" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-20" target="YFnP_0Sg1N9gIwkcgxoO-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1070" />
+              <mxPoint x="490" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-20" value="Solution Requirements" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-25" value="The client must be able to make a request to a logical endpoint for the&lt;br&gt;microservice. The request will be routed to one of the available microservice&lt;br&gt;instances." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1110" width="241.25" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-26" value="Automatically register/unregister microservices and their instances as they&lt;br&gt;come and go." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="970" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.57;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YFnP_0Sg1N9gIwkcgxoO-20" target="YFnP_0Sg1N9gIwkcgxoO-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="1070" />
+              <mxPoint x="490" y="1167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-29" value="Requests to a microservice must be load-balanced over the available&lt;br&gt;instances." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570.63" y="1240" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YFnP_0Sg1N9gIwkcgxoO-30" value="We must be able to detect instances that currently are unhealthy, so that&lt;br&gt;requests will not be routed to them." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1360" width="280" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
